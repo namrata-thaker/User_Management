@@ -1,0 +1,7 @@
+Add Database Schema to to mysql with following command
+
+CREATE SCHEMA `user_database`
+Change your password that you create for your local database connection in the file 'application properties'.
+
+Run the application
+I have used Intellij IDEA
